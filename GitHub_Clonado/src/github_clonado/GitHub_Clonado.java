@@ -15,9 +15,16 @@ public class GitHub_Clonado {
     
      public static int multiplicacion (int a, int b){
         int resultado;
-        resultado = a + b;
+        resultado = a * b;
         return resultado;
     }
-  
+    
+    public static int metodosuma (int a, int b){
+        int resultado;
+        resultado = a + b;
+        return resultado;
+
+
+}
 }
 
