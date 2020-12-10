@@ -9,7 +9,7 @@ public class GitHub_Clonado {
      int metodomultiplicacion;
      
       metodomultiplicacion = multiplicacion(8,2);   
-      
+      metodosuma = suma(6,3);
         System.out.println("El resultado de la multiplicacion es: "+metodomultiplicacion);
     }
     
